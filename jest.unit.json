@@ -1,0 +1,9 @@
+{
+    "preset": "ts-jest",
+    "coverageDirectory": "./covarage",
+    "testMatch": [
+        "**/?(*.)+spec.ts"
+    ],
+    "resetMocks": true,
+    "clearMocks": true
+}
