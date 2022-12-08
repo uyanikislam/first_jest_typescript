@@ -3,7 +3,7 @@
         "**/*.spec.ts"
     ],
     "compilerOptions": {
-        "target": "ES6",
+        "target": "ES2019",
         "module": "CommonJS",
         "outDir": "./dist",
         "strict": true,
